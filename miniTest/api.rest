@@ -1,0 +1,4 @@
+
+GET https://api.openweathermap.org/data/2.5/forecast?q=Jakarta&units=metric&APPID=32adba6439efba519c18605cb6994e56
+
+&&&
