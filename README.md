@@ -14,3 +14,14 @@ Start to edit and development.
 -  "npm run task2"
 </li>
 </ol>
+
+<table>
+Task1
+<img src="./miniTest/img/task1.png"/>
+
+<br>
+
+Task2
+
+<img src="./miniTest/img/task2.png"/>
+</table>
