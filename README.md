@@ -8,6 +8,7 @@
 Open folder with your text editor.
 </li><li>
 Start to edit and development.
+recommended node version 18.*.
 
 -  "npm run start" run all
 -  "npm run task1"
